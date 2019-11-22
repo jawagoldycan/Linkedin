@@ -1,0 +1,1 @@
+mvn test -DbrowserName=chrome -Demail=jawagoldycan@gmail.com -Dpassword=Austria@123 -DjobType=data -Durl="http://www.linkedin.com”
